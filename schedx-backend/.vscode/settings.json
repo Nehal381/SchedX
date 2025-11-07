@@ -1,0 +1,7 @@
+{
+    "explorer.compactFolders": false,
+    "files.exclude": {},
+    "files.watcherExclude": {
+        "**/node_modules/**": true
+    }
+}
